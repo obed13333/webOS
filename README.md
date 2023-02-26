@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8f9980be-a09d-46a5-bd3c-6d8d7be8fe61/deploy-status)](https://app.netlify.com/sites/moonlit-unicorn-8c3d06/deploys)
+
 # TerbiumOS web
 This web os is packed full of feature ***AND MUCH MORE TO COME***
 ![image](https://user-images.githubusercontent.com/49733954/191388633-1b1f27b0-3ceb-4043-a741-6c3d72440da8.png)
